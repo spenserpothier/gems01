@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require 'hola_spenser'
+puts Hola.hi(ARGV[0])
