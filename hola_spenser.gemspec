@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.authors = ['Spenser Pothier']
   s.email = 'gems@spenser.io'
   s.files = ['lib/hola_spenser.rb', 'lib/hola_spenser/translator.rb']
-  s.homepage = 'http://rubygems.org/gems/hola_spenser'
+  s.homepage = 'https://github.com/spenserpothier/gems01'
   s.license = 'MIT'
 end
